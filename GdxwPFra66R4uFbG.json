@@ -1,0 +1,47 @@
+{
+  "version": "5cf2272675e145f5",
+  "Offsets": {
+    "BodyMovers": {
+      "LinearVelocity": {
+        "Enabled": 185,
+        "ForceLimitMode": 484,
+        "ForceLimitsEnabled": 585,
+        "RelativeTo": 428,
+        "VelocityConstraintMode": 376,
+        "LineConstraintModePtr": 456,
+        "PlaneConstraintModePtr": 568,
+        "VelocityConstraintModePtr": 640,
+        "LineConstraintMode": {
+          "MaxForce": 192,
+          "LineDirection": 168,
+          "LineVelocity": 200
+        },
+        "PlaneConstraintMode": {
+          "MaxForce": 256,
+          "PlaneVelocity": 264,
+          "PrimaryTangentAxis": 232,
+          "SecondaryTangentAxis": 244
+        },
+        "VelocityConstraintMode": {
+          "MaxForce": 332,
+          "VectorVelocity": 344
+        }
+      }
+    },
+    "MouseService": {
+      "MouseBehavior": 564
+    },
+    "UserInputService": {
+      "MouseInput": 859,
+      "UserInputType": 832
+    },
+    "TextChatService": {
+      "ChatInputBarConfiguration": {
+        "IsFocused": 318
+      }
+    },
+    "Selection": {
+      "RenderFPS": 496
+    }
+  }
+}
