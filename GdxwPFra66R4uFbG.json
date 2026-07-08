@@ -3,7 +3,7 @@
   "Offsets": {
     "DataModel": {
       "ConnectedToServer": 2128
-    }
+    },
     "BodyMovers": {
       "LinearVelocity": {
         "Enabled": 185,
