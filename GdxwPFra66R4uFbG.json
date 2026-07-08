@@ -1,6 +1,9 @@
 {
   "Roblox Version": "version-5cf2272675e145f5",
   "Offsets": {
+    "DataModel": {
+      "ConnectedToServer": 2128
+    }
     "BodyMovers": {
       "LinearVelocity": {
         "Enabled": 185,
