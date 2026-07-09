@@ -43,6 +43,9 @@
         "IsFocused": 318
       }
     },
+    "RenderView": {
+      "LightingValid": 552
+    },
     "Selection": {
       "RenderFPS": 496
     }
