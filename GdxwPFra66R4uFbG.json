@@ -6,14 +6,14 @@
     },
     "BodyMovers": {
       "LinearVelocity": {
-        "Enabled": 185,
-        "ForceLimitMode": 484,
-        "ForceLimitsEnabled": 585,
-        "RelativeTo": 428,
-        "VelocityConstraintMode": 376,
-        "LineConstraintModePtr": 456,
-        "PlaneConstraintModePtr": 568,
-        "VelocityConstraintModePtr": 640,
+        "Enabled": 177,
+        "ForceLimitMode": 476,
+        "ForceLimitsEnabled": 577,
+        "RelativeTo": 420,
+        "VelocityConstraintMode": 368,
+        "LineConstraintModePtr": 448,
+        "PlaneConstraintModePtr": 560,
+        "VelocityConstraintModePtr": 632,
         "LineConstraintMode": {
           "MaxForce": 192,
           "LineDirection": 168,
