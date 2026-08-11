@@ -48,6 +48,12 @@
     },
     "Selection": {
       "RenderFPS": 504
-    }
+    },
+    "GuiObject": {
+      "Visible": 1453,
+      "BackgroundTransparency": 1380,
+      "ImageButtonTransparency": 3460,
+      "ImageLabelTransparency": 2724
+    },
   }
 }
