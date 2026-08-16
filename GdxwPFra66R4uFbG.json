@@ -6,11 +6,13 @@
         },
         "ComponentMap": {
             "Begin": 0,
-            "End": 8,
-            "ComponentSize": 16,
-            "ToComponent": 0,
-            "ComponentId": 8
+            "End": 8
         },
+		"Component": {
+		    "Size": 16,
+			"Pointer": 0,
+			"Id": 8
+		},
         "AttributeStorage": {
             "Count": 0,
             "SlotCount": 4,
