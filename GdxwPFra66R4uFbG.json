@@ -55,7 +55,7 @@
       "ImageButtonTransparency": 3460,
       "ImageLabelTransparency": 2724
     },
-    "enums": {
+    "Enumerations": {
       "ReflectionType": {
         "Null": 0,
         "Bool": 1,
