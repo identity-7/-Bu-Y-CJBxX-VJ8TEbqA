@@ -1,189 +1,189 @@
 {
-	"Roblox Version": "version-ddf602d9cfe44005",
-	"Offsets": {
-		"Instance": {
-			"ComponentMap": 56
-		},
-		"ComponentMap": {
-			"Begin": 0,
-			"End": 8,
-			"ComponentSize": 16,
-			"ToComponent": 0,
-			"ComponentId": 8
-		},
-		"AttributeStorage": {
-			"Count": 0,
-			"SlotCount": 4,
-			"Container": 16
-		},
-		"Attribute": {
-			"Size": 88,
-			"NameContainer": 0,
-			"Name": 8,
-			"Type": 8,
-			"TypeId": 48,
-			"Value": 24
-		},
-		"DataModel": {
-		  "ConnectedToServer": 1880
-		},
-		"BodyMovers": {
-		  "LinearVelocity": {
-			"Enabled": 177,
-			"ForceLimitMode": 476,
-			"ForceLimitsEnabled": 577,
-			"RelativeTo": 420,
-			"VelocityConstraintMode": 368,
-			"LineConstraintModePtr": 448,
-			"PlaneConstraintModePtr": 560,
-			"VelocityConstraintModePtr": 632,
-			"LineConstraintMode": {
-			  "MaxForce": 192,
-			  "LineDirection": 168,
-			  "LineVelocity": 200
-			},
-			"PlaneConstraintMode": {
-			  "MaxForce": 256,
-			  "PlaneVelocity": 264,
-			  "PrimaryTangentAxis": 232,
-			  "SecondaryTangentAxis": 244
-			},
-			"VelocityConstraintMode": {
-			  "MaxForce": 332,
-			  "VectorVelocity": 344
-			}
-		  }
-		},
-		"MouseService": {
-		  "MouseBehavior": 564
-		},
-		"UserInputService": {
-		  "MouseInput": 859,
-		  "UserInputType": 832
-		},
-		"TextChatService": {
-		  "ChatInputBarConfiguration": {
-			"IsFocused": 318
-		  }
-		},
-		"RenderView": {
-		  "LightingValid": 552
-		},
-		"Selection": {
-		  "RenderFPS": 504
-		},
-		"GuiObject": {
-		  "Visible": 1453,
-		  "BackgroundTransparency": 1380,
-		  "ImageButtonTransparency": 3460,
-		  "ImageLabelTransparency": 2724
-		},
-	},
-	  
-	"Enums": {
-		"ReflectionType": {
-			"Null": 0,
-			"Bool": 1,
-			"Int": 2,
-			"Int64": 3,
-			"Float": 4,
-			"Double": 5,
-			"String": 6,
-			"ProtectedString": 7,
-			"Instance": 8,
-			"Instances": 9,
-			"Ray": 10,
-			"Vector2": 11,
-			"Vector3": 12,
-			"Vector2int16": 13,
-			"Vector3int16": 14,
-			"Rect2D": 15,
-			"CoordinateFrame": 16,
-			"Color3": 17,
-			"Color3uint8": 18,
-			"UDim": 19,
-			"UDim2": 20,
-			"Faces": 21,
-			"Axes": 22,
-			"Region3": 23,
-			"Region3int16": 24,
-			"CellId": 25,
-			"GuidData": 26,
-			"PhysicalProperties": 27,
-			"BrickColor": 28,
-			"SystemAddress": 29,
-			"BinaryString": 30,
-			"Surface": 31,
-			"CollectionHandle": 32,
-			"Enum": 33,
-			"Property": 34,
-			"Tuple": 35,
-			"Array": 36,
-			"Dictionary": 37,
-			"Map": 38,
-			"Variant": 39,
-			"GenericFunction": 40,
-			"Function": 41,
-			"ColorSequence": 42,
-			"ColorSequenceKeypoint": 43,
-			"NumberRange": 44,
-			"NumberSequence": 45,
-			"NumberSequenceKeypoint": 46,
-			"Connection": 48,
-			"ContentId": 49,
-			"DescribedBase": 50,
-			"RefType": 51,
-			"EventInstance": 54,
-			"TweenInfo": 55,
-			"DockWidgetPluginGuiInfo": 56,
-			"PluginDrag": 57,
-			"Random": 58,
-			"PathWaypoint": 59,
-			"FloatCurveKey": 60,
-			"RotationCurveKey": 61,
-			"ValueCurveKey": 62,
-			"SharedString": 63,
-			"DateTime": 64,
-			"RaycastParams": 65,
-			"RaycastResult": 66,
-			"OverlapParams": 67,
-			"LazyTable": 68,
-			"DebugTable": 69,
-			"CatalogSearchParams": 70,
-			"OptionalCoordinateFrame": 71,
-			"CSGPropertyData": 72,
-			"UniqueId": 73,
-			"Font": 74,
-			"SharedTable": 75,
-			"SharedTableIterator": 76,
-			"AnimationMask": 77,
-			"AnimationPose": 78,
-			"ClipEvaluator": 79,
-			"OpenCloudModel": 80,
-			"InstanceRef": 81,
-			"SecurityCapabilities": 82,
-			"ArticulatedJoint": 83,
-			"AnimationContext": 84,
-			"Secret": 85,
-			"Buffer": 86,
-			"Integer": 87,
-			"Path2DControlPoint": 88,
-			"ReplicationPV": 89,
-			"FacsReplicationData": 90,
-			"AnimationMaskModifier": 91,
-			"Content": 92,
-			"NetAssetHandle": 93,
-			"NetAssetRef": 94,
-			"Object": 95,
-			"AdReward": 96,
-			"AssetContentMap": 97,
-			"SlimReplicationData": 98,
-			"User": 99,
-			"WebViewParams": 100,
-			"AnimTrackPlayState": 101,
-			"AnimTrackMetadata": 102,
-			"AnimTrackWeight": 103,
-			"ScopedInstanceIdentity": 104
-		}
-	}
+    "Roblox Version": "version-ddf602d9cfe44005",
+    "Offsets": {
+        "Instance": {
+            "ComponentMap": 56
+        },
+        "ComponentMap": {
+            "Begin": 0,
+            "End": 8,
+            "ComponentSize": 16,
+            "ToComponent": 0,
+            "ComponentId": 8
+        },
+        "AttributeStorage": {
+            "Count": 0,
+            "SlotCount": 4,
+            "Container": 16
+        },
+        "Attribute": {
+            "Size": 88,
+            "NameContainer": 0,
+            "Name": 8,
+            "Type": 8,
+            "TypeId": 48,
+            "Value": 24
+        },
+        "DataModel": {
+          "ConnectedToServer": 1880
+        },
+        "BodyMovers": {
+          "LinearVelocity": {
+            "Enabled": 177,
+            "ForceLimitMode": 476,
+            "ForceLimitsEnabled": 577,
+            "RelativeTo": 420,
+            "VelocityConstraintMode": 368,
+            "LineConstraintModePtr": 448,
+            "PlaneConstraintModePtr": 560,
+            "VelocityConstraintModePtr": 632,
+            "LineConstraintMode": {
+              "MaxForce": 192,
+              "LineDirection": 168,
+              "LineVelocity": 200
+            },
+            "PlaneConstraintMode": {
+              "MaxForce": 256,
+              "PlaneVelocity": 264,
+              "PrimaryTangentAxis": 232,
+              "SecondaryTangentAxis": 244
+            },
+            "VelocityConstraintMode": {
+              "MaxForce": 332,
+              "VectorVelocity": 344
+            }
+          }
+        },
+        "MouseService": {
+          "MouseBehavior": 564
+        },
+        "UserInputService": {
+          "MouseInput": 859,
+          "UserInputType": 832
+        },
+        "TextChatService": {
+          "ChatInputBarConfiguration": {
+            "IsFocused": 318
+          }
+        },
+        "RenderView": {
+          "LightingValid": 552
+        },
+        "Selection": {
+          "RenderFPS": 504
+        },
+        "GuiObject": {
+          "Visible": 1453,
+          "BackgroundTransparency": 1380,
+          "ImageButtonTransparency": 3460,
+          "ImageLabelTransparency": 2724
+        },
+    },
+      
+    "Enums": {
+        "ReflectionType": {
+            "Null": 0,
+            "Bool": 1,
+            "Int": 2,
+            "Int64": 3,
+            "Float": 4,
+            "Double": 5,
+            "String": 6,
+            "ProtectedString": 7,
+            "Instance": 8,
+            "Instances": 9,
+            "Ray": 10,
+            "Vector2": 11,
+            "Vector3": 12,
+            "Vector2int16": 13,
+            "Vector3int16": 14,
+            "Rect2D": 15,
+            "CoordinateFrame": 16,
+            "Color3": 17,
+            "Color3uint8": 18,
+            "UDim": 19,
+            "UDim2": 20,
+            "Faces": 21,
+            "Axes": 22,
+            "Region3": 23,
+            "Region3int16": 24,
+            "CellId": 25,
+            "GuidData": 26,
+            "PhysicalProperties": 27,
+            "BrickColor": 28,
+            "SystemAddress": 29,
+            "BinaryString": 30,
+            "Surface": 31,
+            "CollectionHandle": 32,
+            "Enum": 33,
+            "Property": 34,
+            "Tuple": 35,
+            "Array": 36,
+            "Dictionary": 37,
+            "Map": 38,
+            "Variant": 39,
+            "GenericFunction": 40,
+            "Function": 41,
+            "ColorSequence": 42,
+            "ColorSequenceKeypoint": 43,
+            "NumberRange": 44,
+            "NumberSequence": 45,
+            "NumberSequenceKeypoint": 46,
+            "Connection": 48,
+            "ContentId": 49,
+            "DescribedBase": 50,
+            "RefType": 51,
+            "EventInstance": 54,
+            "TweenInfo": 55,
+            "DockWidgetPluginGuiInfo": 56,
+            "PluginDrag": 57,
+            "Random": 58,
+            "PathWaypoint": 59,
+            "FloatCurveKey": 60,
+            "RotationCurveKey": 61,
+            "ValueCurveKey": 62,
+            "SharedString": 63,
+            "DateTime": 64,
+            "RaycastParams": 65,
+            "RaycastResult": 66,
+            "OverlapParams": 67,
+            "LazyTable": 68,
+            "DebugTable": 69,
+            "CatalogSearchParams": 70,
+            "OptionalCoordinateFrame": 71,
+            "CSGPropertyData": 72,
+            "UniqueId": 73,
+            "Font": 74,
+            "SharedTable": 75,
+            "SharedTableIterator": 76,
+            "AnimationMask": 77,
+            "AnimationPose": 78,
+            "ClipEvaluator": 79,
+            "OpenCloudModel": 80,
+            "InstanceRef": 81,
+            "SecurityCapabilities": 82,
+            "ArticulatedJoint": 83,
+            "AnimationContext": 84,
+            "Secret": 85,
+            "Buffer": 86,
+            "Integer": 87,
+            "Path2DControlPoint": 88,
+            "ReplicationPV": 89,
+            "FacsReplicationData": 90,
+            "AnimationMaskModifier": 91,
+            "Content": 92,
+            "NetAssetHandle": 93,
+            "NetAssetRef": 94,
+            "Object": 95,
+            "AdReward": 96,
+            "AssetContentMap": 97,
+            "SlimReplicationData": 98,
+            "User": 99,
+            "WebViewParams": 100,
+            "AnimTrackPlayState": 101,
+            "AnimTrackMetadata": 102,
+            "AnimTrackWeight": 103,
+            "ScopedInstanceIdentity": 104
+        }
+    }
 }
