@@ -1,6 +1,29 @@
 {
-  "Roblox Version": "version-ddf602d9cfe44005",
-  "Offsets": {
+    "Roblox Version": "version-ddf602d9cfe44005",
+    "Offsets": {
+  	"Instance": {
+  		"ComponentMap": 56
+  	},
+  	"ComponentMap": {
+  		"Begin": 0,
+  		"End": 8,
+  		"ComponentSize": 16,
+  		"ToComponent": 0,
+  		"ComponentId": 8
+  	},
+  	"AttributeStorage": {
+  		"Count": 0,
+  		"SlotCount": 4,
+  		"Container": 16
+  	},
+  	"Attribute": {
+  		"Size": 88,
+  		"NameContainer": 0,
+  		"Name": 8,
+  		"Type": 8,
+  		"TypeId": 48,
+  		"Value": 24
+  	},
     "DataModel": {
       "ConnectedToServer": 1880
     },
