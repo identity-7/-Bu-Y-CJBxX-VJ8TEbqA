@@ -35,7 +35,7 @@
 			"ForceLimitMode": 476,
 			"ForceLimitsEnabled": 577,
 			"RelativeTo": 420,
-			"VelocityConstraintMode": 368,
+			"VelocityConstraintMode": 392,
 			"LineConstraintModePtr": 448,
 			"PlaneConstraintModePtr": 560,
 			"VelocityConstraintModePtr": 632,
@@ -57,15 +57,15 @@
 		  }
 		},
 		"MouseService": {
-		  "MouseBehavior": 564
+		  "MouseBehavior": 588
 		},
 		"UserInputService": {
-		  "MouseInput": 859,
-		  "UserInputType": 832
+		  "MouseInput": 883,
+		  "UserInputType": 856
 		},
 		"TextChatService": {
 		  "ChatInputBarConfiguration": {
-			"IsFocused": 318
+			"IsFocused": 342
 		  }
 		},
 		"RenderView": {
@@ -75,10 +75,10 @@
 		  "RenderFPS": 504
 		},
 		"GuiObject": {
-		  "Visible": 1453,
-		  "BackgroundTransparency": 1380,
-		  "ImageButtonTransparency": 3460,
-		  "ImageLabelTransparency": 2724
+		  "Visible": 1477,
+		  "BackgroundTransparency": 1404,
+		  "ImageButtonTransparency": 3508,
+		  "ImageLabelTransparency": 2772
 		}
 	},
 	"Enums": {
