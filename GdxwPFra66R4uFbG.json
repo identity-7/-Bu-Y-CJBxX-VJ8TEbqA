@@ -57,15 +57,15 @@
 		  }
 		},
 		"MouseService": {
-		  "MouseBehavior": 564
+		  "MouseBehavior": 588
 		},
 		"UserInputService": {
-		  "MouseInput": 859,
-		  "UserInputType": 832
+		  "MouseInput": 883,
+		  "UserInputType": 856
 		},
 		"TextChatService": {
 		  "ChatInputBarConfiguration": {
-			"IsFocused": 318
+			"IsFocused": 342
 		  }
 		},
 		"RenderView": {
