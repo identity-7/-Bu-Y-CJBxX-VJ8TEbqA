@@ -1,6 +1,14 @@
 {
 	"Roblox Version": "version-02c37bc51a384b8f",
 	"Offsets": {
+		"Alternative": {
+			"AttributeStorage": {
+				"Container": 8,
+				"Count": 16,
+				"SlotCount": 20
+			}
+		},
+		
 		"Instance": {
 			"ComponentMap": 56
 		},
