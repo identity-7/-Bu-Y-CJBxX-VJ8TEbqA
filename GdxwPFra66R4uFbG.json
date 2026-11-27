@@ -86,6 +86,7 @@
 		  "RenderFPS": 504
 		},
 		"GuiObject": {
+		  "Visible": 877,
 		  "BackgroundTransparency": 1404,
 		  "ImageButtonTransparency": 3508,
 		  "ImageLabelTransparency": 2772
