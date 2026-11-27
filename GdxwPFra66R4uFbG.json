@@ -8,7 +8,10 @@
 				"SlotCount": 20
 			}
 		},
-		
+
+		"AnimationTrack": {
+			"KeyframeSequence": 392
+		},
 		"Instance": {
 			"ComponentMap": 56
 		},
